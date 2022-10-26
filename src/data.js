@@ -58,12 +58,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Gospel Ja",
-            artist: "GospelJa",
+            name:"BOX Gospel Plus",
+            artist: "BOXGospelPlus",
             cover: "https://img.freepik.com/vector-gratis/logotipo-podcast-detallado-auriculares_23-2148788671.jpg",
             id: uuidv4(),
             color: ["#191516", "#82698E"],
-            audio: "https://media.usamogul.com:7001/stream",
+            audio: "https://boxradio-edge-07.streamafrica.net/gospelplus",
             active: false,
         },
         {
